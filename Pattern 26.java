@@ -14,7 +14,7 @@ int count=1;
         for (int i = 0; i < n; i++) {
             // Print spaces before the numbers
             for (int j = 0; j < n - i-1; j++) {
-                System.out.print(" ");
+                System.out.print(" ");/////
             }
 
             // Print the numbers

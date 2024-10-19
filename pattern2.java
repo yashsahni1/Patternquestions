@@ -14,7 +14,8 @@ public class Main{
 		    for(int j=i;j<n;j++){
 		        System.out.print("* ");
 		    }
-		    System.out.println();
+		    System.out.println();/////
+
 		}
 	}
 }
